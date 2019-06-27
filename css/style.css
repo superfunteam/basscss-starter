@@ -1,0 +1,12 @@
+:root {
+  --white: #FFFFFF;
+  --black: #000000;
+  --dark: #222222;
+  --light: #EEEEEE;
+}
+
+body{
+	padding:0;
+	margin:0;
+	font-family: 'DM Sans', sans-serif;
+}
